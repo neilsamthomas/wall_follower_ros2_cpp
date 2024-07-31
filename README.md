@@ -6,4 +6,5 @@ This ROS2 package contains three main components designed to control a robot's m
 2.  **wall_follower.cpp**: Implements a wall-following behavior that makes the robot follow the wall on its right-hand side. It includes a ROS service client to call the service server in `wall_finder.cpp` and a ROS action client to call the action server in `odom_recorder.cpp`.
 3. **odom_recorder.cpp**: An action server that starts recording the robot's odometry when called.
 
-https://github.com/user-attachments/assets/812097b3-c2da-4191-b44b-e9fc886ed6f0
+(https://github.com/user-attachments/assets/cf4e9918-d6a2-4910-b53a-62e69d20e540)
+
